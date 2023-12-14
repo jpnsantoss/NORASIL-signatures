@@ -6,7 +6,7 @@ Guia de como alterar a assinatura de email sem a desformatar:
 
 ### 1º Passo: ###
 
-- Fazer download do zip deste repositório
+- Fazer download do zip deste repositório (Clicar em `Code -> Download ZIP`)
 - Extrair os conteúdos do zip
 - Abrir a pasta com a assinatura desejada
 
